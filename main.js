@@ -10,9 +10,4 @@ select.addEventListener("click", function (e) {
   localStorage.setItem("rate", value);
 });
 
-// rate.forEach((element, index) => {
-//   if (element.classList.contains("selected")) {
-//     value = element.innerTEXT;
-//   }
-// });
-// console.log(value);
+
